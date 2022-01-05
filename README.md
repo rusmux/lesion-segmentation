@@ -1,1 +1,1 @@
-# lesion-segmentation
+# Lesion Segmentation
